@@ -1,4 +1,4 @@
-# EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
+# EX.NO.09        A project on Time series analysis on Power Consumption using ARIMA model 
 
 ### Date: 
 ### Developed by: Shaik Shoaib Nawaz
